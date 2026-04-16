@@ -2,7 +2,8 @@
 
 ## Setup Instructions
 1. Go to **Settings** > **Secrets and variables** > **Codespaces**.
-2. Add these **Repository Secrets**:
+2. Upload the SB3 to Scratch
+3. Add these **Repository Secrets**:
    - `SCRATCH_USERNAME`: Your username.
    - `SCRATCH_SESSION_ID`: From your browser cookies.
    - `SCRATCH_PROJECT_ID`: The numbers in your Scratch URL.
