@@ -1,4 +1,4 @@
- # Scratch AI Bridge
+ # ScratchGPT - Scratch AI Bridge
 
 ## Setup Instructions
 1. Go to **Settings** > **Secrets and variables** > **Codespaces**.
