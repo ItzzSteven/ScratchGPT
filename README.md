@@ -1,5 +1,5 @@
  # ScratchGPT - Scratch AI Bridge
-
+kinda broken :(
 ## Setup Instructions
 1. Go to **Settings** > **Secrets and variables** > **Codespaces**.
 2. Upload the SB3 to Scratch
